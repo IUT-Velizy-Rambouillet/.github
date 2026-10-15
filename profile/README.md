@@ -24,7 +24,7 @@ Cette organisation centralise le code source des applications pédagogiques, adm
 
 | Projet | Description | Technologies | Accès |
 | :--- | :--- | :--- | :--- |
-| **[edtpp](https://github.com/IUT-Velizy-Rambouillet/edtpp)** | Gestion et consultation des emplois du temps | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | 🔒 Interne |
+| **[edtpp](https://github.com/IUT-Velizy-Rambouillet/edtpp)** | Panneau d'affichage | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | 🔒 Interne |
 | **Application 2** | *Description de votre futur outil interne* | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | 🔒 Interne |
 
 ---
