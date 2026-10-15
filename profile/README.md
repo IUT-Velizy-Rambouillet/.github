@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="../Banniere_IUT_VelizyRambouillet.png" alt="Bannière IUT Vélizy-Rambouillet" width="100%" />
+  
   <h1>🎓 IUT de Vélizy-Rambouillet — UVSQ</h1>
   <p><strong>Plateforme de développement des applications et outils internes de l'IUT</strong></p>
 
